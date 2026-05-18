@@ -1,0 +1,10 @@
+# Ignore local database text storage files
+users.txt
+questions.txt
+
+# Ignore IDE configuration folders
+.idea/
+.vscode/
+cmake-build-debug/
+out/
+*.exe
